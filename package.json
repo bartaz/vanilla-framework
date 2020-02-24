@@ -37,7 +37,7 @@
     "percy": "percy exec -- node snapshots.js"
   },
   
-  "version": "2.7.0",
+  "version": "2.7.1",
   
   "files": [
     "/scss",
